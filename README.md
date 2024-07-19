@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Olá eu sou Gustavo Bem-vindo(a) ao meu perfil 
 
  <div>
    <a href="https://github.com/gustavo-hlima">
@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Redes
  
 <div> 
  
